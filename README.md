@@ -8,3 +8,4 @@ arguments -
 The input files for various stages are provided in following link
 https://doi.org/10.5281/zenodo.4719152
 
+For calculation of features foll the file README_for_feature_calculations.txt
